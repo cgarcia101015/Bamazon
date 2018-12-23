@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront App",
+  "main": "bamazonManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgarcia101015/Bamazon.git"
+  },
+  "author": "Carlos M Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgarcia101015/Bamazon/issues"
+  },
+  "homepage": "https://github.com/cgarcia101015/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}

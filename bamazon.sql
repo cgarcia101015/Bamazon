@@ -38,7 +38,7 @@ INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Philips Smoke-less Indoor BBQ Grill", "Food", 250, 385);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("ThermoPro TP20 Wireless Remote Digital Cooking Food Meat Thermometer", "Cooking", 60, 52);
+VALUES ("ThermoPro Wireless Digital Cooking Thermometer", "Cooking", 60, 52);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("OFM Essentials Leather Office Chair", "Furniture", 56, 731);
