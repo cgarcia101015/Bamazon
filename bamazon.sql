@@ -55,4 +55,4 @@ VALUES ("Tonka Toughest Mighty Dump Truck", "Toys & Games", 45, 154);
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Walk-A-Long Puppy Wooden Toy", "Toys & Games", 24, 456);
 
-SELECT *FROM products;
+SELECT * FROM products;
